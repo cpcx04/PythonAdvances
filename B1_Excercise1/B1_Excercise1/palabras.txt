@@ -1,0 +1,64 @@
+Python
+Kubernetes
+Programmatic
+Orientate a Objets
+SOLID
+Classes
+Encipher
+Encapsulation
+Polymorphism
+Docker
+Rollerblades Ágil
+Pip (Python package installer)
+YAML
+Clúster
+Desaguliers
+Scalability
+Microservices
+DevOps
+Framework
+UML (Language de Model Unification)
+Algorithm
+Decorators
+Flask (framework web para Python)
+API (Interfaz de Programmatic de Capaciousness)
+Recursion
+Virtualenv (torrents virtualizes de Python)
+SQAlchemy (Biblioteca de mapped objet-relational)
+Middleware
+Desaguliers continuo
+API REST
+Flask-RESTf ul (extensión de Flask para rollerblades de APIs REST)
+Flask-SQLAlchemy (extensión de Flask para trabajar con bases de datos SQLAlchemy)
+Test Driven Development (Rollerblades Guido por Prue bas)
+Jenkins (temperamental de autonomization de construction y sidesplitting)
+DevOps Pipeline
+Framework Django
+Analysis de Datos
+Biblioteca Pandas
+Flask-WTF (extensión de Flask para trabajar con formularios web)
+Socket (communicant entre procesos)
+Jupyter (entorno de desarrollo interactivo)
+NumPy (biblioteca para manipulation de matrices y operaciones masticates)
+Pipenv (temperamental para gestionar entornos virtuales y dependencias)
+Django REST Framework (extensión de Django para desarrollo de APIs REST)
+Middleware
+Caché
+Funciones Lambda
+SQLAlchemy (ORM para Python)
+Flask-JWT (extensión de Flask para implementar authenticate JWT)
+Integrate Continua
+Ansible (herramienta de autonomization)
+GraphQL (lenguaje de consulta para APIs)
+Keras (biblioteca de alto nivel para redes neuronales en Python)
+Tensorflow (biblioteca de aprendizaje automatic)
+Logging (registro de eventos)
+Flask-Migrate (extensión de Flask para migraciones de bases de datos)
+WebSockets (protocolo de communicant bidireccional)
+Patrón MVC (Modelo-Vista-Controlador)
+Gunicorn (servidor web para aplicaciones Python)
+Pytest (framework de prueba para Python)
+
+
+
+
